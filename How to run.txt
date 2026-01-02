@@ -1,0 +1,3 @@
+1. venv\Scripts\Activate
+2. pip install -r requiremets.txt
+3. uvicorn main:app or uvicorn main:app --reload
